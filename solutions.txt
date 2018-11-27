@@ -1,0 +1,26 @@
+Jeremy did it.
+  576  ls
+  577  echo "Jeremy did it." > solutions.txt
+  578  cat solutions.txt
+  579  history
+  580  history | tail -n 25
+  581  echo history | tail -n 25 > solutions.txt
+  582  ls
+  583  cat solutions
+  584  cat solutions
+  585  ecistory | tail -n 25 > solutions.txt
+  586  subl solutions.txt
+  587  history | tail -n 25
+  588  echo "Jeremy did it." > solutions.txt
+  589  cat solutions
+  590  cat solutions
+  591  ls
+  592  echo "Jeremy did it." > solutions.txt
+  593  ls
+  594  cat solutions
+  595  echo "Jeremy did it." > solutions.txt
+  596  ls
+  597  subl solutions.txt
+  598  cat solutions.txt
+  599* hi
+  600  history | tail -n 25 >> solutions.txt
